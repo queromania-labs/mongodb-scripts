@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queromania-labs/mongodb-scripts.git"
+  },
+  "author": "Erico Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/queromania-labs/mongodb-scripts/issues"
+  },
+  "homepage": "https://github.com/queromania-labs/mongodb-scripts#readme"
+}
